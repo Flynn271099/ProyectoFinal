@@ -33,7 +33,7 @@ python manage.py runserver
 ```
 En caso de que hayan seguido correctamente los pasos se iniciará el Blog en un servidor web el cual tendrán acceso por un link numerico en su terminal. 
 
-¡Ahora sí! Puedes gestionar a gusto el sitio y el mismo cuenta con un panel admin de Django el cual podrá manipular con el usuario "admin" y contraseña "administrator".
+¡Ahora sí! Puedes gestionar a gusto el sitio y el mismo cuenta con un panel admin de Django el cual podrá manipular con el usuario "flynn" y contraseña "Facundo12345".
 
 El sitio cuenta con 3 ingresos de datos: Añadir Empleado, Jefe y Cliente, los cuales pediran datos específicos para crealos, por último contiene una página donde te permitirá buscar a los clientes ingresados por su email. 
 
