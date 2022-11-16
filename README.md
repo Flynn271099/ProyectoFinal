@@ -37,5 +37,6 @@ En caso de que hayan seguido correctamente los pasos se iniciará el Blog en un 
 
 El sitio cuenta con 3 ingresos de datos: Añadir Empleado, Jefe y Cliente, los cuales pediran datos específicos para crealos, por último contiene una página donde te permitirá buscar a los clientes ingresados por su email. 
 
-Créditos
+# Créditos
+
 ¡Muchas gracias a CoderHouse y más que nada al [Profesor] Daniel Ochoa y a la [Tutora] Maria Emilia Díaz! Tanto el profesor en clase como la tutora en after o dudas por mensajes privados en la web de Coder me han servido para mantener el ritmo, aprender con mas sultura el lenguaje y poder comprender un poco más del código en general al momento de crearlo, leerlo y modificarlo.
